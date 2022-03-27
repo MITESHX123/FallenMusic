@@ -84,7 +84,7 @@ python3 main.py # Run the bot
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/MITESHBANTAI"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/StanyMusicBot"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/MITESHBANTAI"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/Mitesh9942"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
