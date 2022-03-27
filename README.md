@@ -79,7 +79,7 @@ python3 main.py # Run the bot
 
 ### Special Credits 💖
 - [MITESH🖤[BANTAI🌹]𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ](https://github.com/MITESHX123): Developer
-- [Fallen Music Bot](https://telegram.me/StanyMusicBot): Test Bot
+- [Stany Music Bot](https://telegram.me/StanyMusicBot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
